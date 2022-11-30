@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Wildfire smoke in California from 2006-2015 by county"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "heather"
+name                     : "heathers"
 description              : "An amazing website."
 url                      : "https://heathermcb.github.io/heathermcb"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Heather McBrien"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **amazing** person. Hello does this work "
   location         : "NYC"
   email            : hm2913@cumc.columbia.edu
   links:
